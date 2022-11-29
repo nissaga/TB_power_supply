@@ -10,7 +10,7 @@ I made one power supply from an atx of an old computed. It had different fixed v
 
 #Planification
 The best thing to do now is to think about the next steps
-- [ ] Why the fuse doesn't do anything?
+- [x] Why the fuse doesn't do anything?
 - [ ] Why the LM317 get burned
 - [ ] How to create the current limitation circuit
 - [ ] Will fit?
