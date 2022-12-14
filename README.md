@@ -12,14 +12,7 @@ I made one power supply from an atx of an old computed. It had different fixed v
 The best thing to do now is to think about the next steps
 - [x] Why the fuse doesn't do anything?
 - [X] Why the LM317 get burned
+- [ ] Review bibliography
 - [ ] There is a more updated option than the LM317?
 - [ ] How to create the current limitation circuit
 - [ ] Will fit?
-
-#Bibliography
-Here I will put some of the similar projects I have found to take some ideas.
-- https://github.com/onemarcfifty/arduino-bargraph-powersupply
-- https://hackaday.com/2016/10/28/not-quite-101-uses-for-an-atx-power-supply/#more-227663 (Information about ATX power supplies)
-- https://www.thingiverse.com/thing:4711395
-- https://hackaday.io/project/184598-maker-your-own-professional-bench-power-supply
-- https://www.theneverendingprojectslist.com/miscprojects/atx-bench-power-supply/
