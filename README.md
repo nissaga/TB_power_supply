@@ -13,6 +13,6 @@ The best thing to do now is to think about the next steps
 - [x] Why the fuse doesn't do anything?
 - [X] Why the LM317 get burned
 - [ ] Review bibliography
-- [ ] There is a more updated option than the LM317?
-- [ ] How to create the current limitation circuit
+- [x] There is a more updated option than the LM317?
+- [x] How to create the current limitation circuit
 - [ ] Will fit?
