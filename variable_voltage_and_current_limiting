@@ -1,0 +1,5 @@
+I have reviewed some alternatives to have a variable voltage. The most used is LM317. However I still have the problem with current limiting.
+
+Therefore I have decided to go for a buck-boost converter which includes the variable voltage and the current limiting. Also includes voltage and current reading. It cost near 20€, but I think it's worth it.
+
+In this way, I will not get stuck in the project.
