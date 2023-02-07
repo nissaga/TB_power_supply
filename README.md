@@ -8,7 +8,7 @@ I made one power supply from an atx of an old computed. It had different fixed v
 - I would love to have some current limitation to protect the tested equipment
 - It is possible to get more voltage than 12V?
 
-![Alt text](/TB_power_supply/images/old_BS1.jpg "The old one")
+![My image](/images/old_BS1.jpg "The old one")
 
 # Preamble
 ## Checklist
