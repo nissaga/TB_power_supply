@@ -30,3 +30,24 @@ I have tried to understand some current limitation circuits. I do not understand
 In this way, I could have a higher range of voltage and some nice features like current regulation
 
 # Design
+I will the enclosure of an old broken radio to put the power supply inside.
+![My image](/images/Radio2.jpg "The radio front")
+![My image](/images/Radio5.jpg "The radio back")
+
+It's great because it comes with some protection and has a handle. But, Will I fit the power supply in it?
+The power supply comes from a desktop DELL computer
+![My image](/images/ATX1.jpg)
+![My image](/images/ATX2.jpg)
+
+I disassembled the metal enclosure.
+![My image](/images/ATX3.jpg)
+
+Then I tested manually if it fits into the radio.
+![My image](/images/Fitting1.jpg)
+![My image](/images/Fittin2.jpg)
+
+Although it fits, I would put the fan into the round aperture of the enclosure. So, I need some extra space.
+The idea is to cut the space for the batteries at the back of the radio as I would not use that space.
+Additionally, I would need some air inlet into the enclosure. Maybe I could cut the battery cover to put there the intake.
+
+
